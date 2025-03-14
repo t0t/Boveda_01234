@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "7de489f7d58c30b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e591de69f9db8dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378452a04ce1c5c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0"
+            }
+          },
+          {
+            "id": "e817dbc98bbf1908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67193c8c66e98f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf27dada5b710b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "359f8b25f2991d9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "29be3ee1476d2c58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#fundamento",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "80661a57ae0568bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ffd270654971ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecbef1f06f9b2317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4842a7d566e5382b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diagrama Base.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Diagrama Base"
+            }
+          },
+          {
+            "id": "a1d2dd0c1a8c55e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "ce66d01da857181b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "03dd1dca937a1ec8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e817dbc98bbf1908",
+  "lastOpenFiles": [
+    "README.md",
+    "Notas/0.md",
+    "Notas/1.md",
+    "Diagrama Base.canvas",
+    "Ejercicio PROPIEDADES.md",
+    "index.html",
+    "DEV",
+    "Notas/Info proyecto.md",
+    "Notas",
+    "Archivos/freepik_edit_A-highquality-studio-portrait-of-a-very-thin-sergi (1).png",
+    "freepik_edit_A-highquality-studio-portrait-of-a-very-thin-sergi.png",
+    "retrato-sergio.png",
+    "avatar2.png",
+    "freepik__a-highquality-studio-portrait-of-a-very-thin-sergi__32994.png",
+    "Bienvenido.md",
+    "Archivos/img/A moody Tensorflow graph visualization, rendered in a strong graphic style with a low contrast grayscale palette, emphasizing dramatic lighting and texture (1).jpg",
+    "Archivos/img",
+    "Archivos/pdf/obsidian_frases.pdf",
+    "Archivos/pdf/Notas 1b51d59a225780138c9ffd2124f8dca6.pdf",
+    "Archivos/pdf/Modelo 01234 - Base de Conocimiento II.pdf",
+    "Archivos/pdf/Estructura del Modelo 01234_ Ideas Clave.pdf",
+    "Archivos/pdf",
+    "Archivos/css",
+    "ChatGPT_MD/chats/20250314093027.md",
+    "Notas/2.md",
+    "Notas/3.md",
+    "Notas/4.md",
+    "Notas/Info Sergio Forés.md",
+    "Notas/invarianza estructural.md",
+    "Notas/La Faceta como módulo de percepción.md"
+  ]
+}
